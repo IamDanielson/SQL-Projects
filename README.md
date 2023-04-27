@@ -1,1 +1,1 @@
-# SQL-Projects Sql Query for Data explorations for Covid Data. 
+# SQL-Projects Sql Query for Data exploration for Covid Data. 
